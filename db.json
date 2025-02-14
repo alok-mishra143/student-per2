@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Admin User",
+      "email": "admin@test.com",
+      "password": "admin123"
+    },
+    {
+      "id": "d8e8",
+      "name": "tets",
+      "email": "h@gmail.com",
+      "password": "111111"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "grade": "B",
+      "score": 90,
+      "performanceLevel": "Above Average",
+      "subjects": {
+        "math": 80,
+        "physics": 90,
+        "chemistry": 95
+      }
+    }
+  ]
+}
